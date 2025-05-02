@@ -1,8 +1,8 @@
 Pack includes:
 - FLPlusPlus + Adoxa's Console + Adoxa's External message plugins
 - Lua Helpers from Rumpet + QLog snipplet from FireFlyEx
-- Optional HEX patch (may ruin Storyline at all):<br><code>Freelancer.exe 0x05BFA2 84 C0 -> 90 90 He||oween Enable MP Chat History in SP (ex. for Debugging purposes)</code>
-<br><code>Freelancer.exe 0x05B91E 74 -> EB He||oween Enable MP top-right bar in SP (for above patch)</code>
+- Optional HEX patch (may ruin Storyline at all):<br><code>Freelancer.exe 0x05BFA2 84 C0 -> 90 90 Enable MP Chat History in SP (ex. for Debugging purposes)</code>
+<br><code>Freelancer.exe 0x05B91E 74 -> EB Enable MP top-right bar in SP (for above patch)</code>
 
 https://github.com/TheStarport/flplusplus<br>
 http://adoxa.altervista.org/freelancer/plugins.html#console<br>
