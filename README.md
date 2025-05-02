@@ -3,6 +3,8 @@ Pack includes:
 - Lua Helpers from Rumpet + QLog snipplet from FireFlyEx
 
 https://github.com/TheStarport/flplusplus
-https://github.com/TheStarport/lua-helpers
 http://adoxa.altervista.org/freelancer/plugins.html#console
 http://adoxa.altervista.org/freelancer/plugins.html#externalmsg
+https://github.com/TheStarport/lua-helpers
+https://discord.com/channels/873144025350295612/873144465592819712 (HDE Suggestions Channel with QLog)
+
