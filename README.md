@@ -1,6 +1,7 @@
 Pack includes:
 - FLPlusPlus+Adoxa's Console + Adoxa's External message plugins
 - Lua Helpers from Rumpet + QLog snipplet from FireFlyEx
+- Optional HEX patch:<br><code>Freelancer.exe 0x05BFA2 84 C0 -> 90 90 He||oween Enable MP Chat History functionality in SP (ex. for Debugging purposes)</code>
 
 https://github.com/TheStarport/flplusplus<br>
 http://adoxa.altervista.org/freelancer/plugins.html#console<br>
@@ -13,4 +14,6 @@ https://discord.com/channels/873144025350295612/873144465592819712 (HDE Suggesti
 ![image](https://github.com/user-attachments/assets/1acf35f5-faf1-4937-a792-753594ab7cb1)
 <br>
 ![image](https://github.com/user-attachments/assets/724260d5-0b9b-4759-9bab-548d31b85549)
+<br>
+![image](https://github.com/user-attachments/assets/18ed4778-caed-406d-b1cb-014831ef548f)
 
